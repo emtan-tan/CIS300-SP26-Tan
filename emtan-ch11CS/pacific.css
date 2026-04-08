@@ -35,7 +35,7 @@ nav {
 }
 nav a { 
     text-decoration: none; 
-        transition: color 3s ease-out;
+	transition: color 3s ease-out;
 }
 nav a:link {
     color: #5C7FA3;
